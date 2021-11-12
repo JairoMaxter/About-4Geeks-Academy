@@ -1,0 +1,70 @@
+template: "online-cv"
+skin: "blue"
+
+basic_info:
+
+    first_name: Jairo Manuel
+    last_name: Rodriguez Velasquez
+    motto: Estudiante de JavaScrip Full-stack 
+    
+    summary: |
+      Soy cristiano, Venezolano, Ingeniero Mecanico y estudiante.
+
+    email: jairomaxter@gmail.com
+    phone: n/a
+    website: n/a
+    linkedin: n/a
+    github: JairoMaxter
+    twitter: n/a
+    stack-overflow: n/a
+
+    languages:
+      - idiom: Spanish
+        level: Native
+
+      - idiom: English 
+        level: Professional / B2
+        
+    interests:
+      - item: Coding
+
+      - item: Traveling
+
+      - item: Piano 
+
+education:
+    - degree: Ing. Mecanica
+      university: La Universidad del Zulia, Venezuela.
+      time: 2012-2016
+
+projects:      
+    intro: This are a few project that I have to do in may first week of a web developer.      
+    
+    assignments:
+            
+      - title: Landing Page
+        link: https://github.com/jairomaxter/simple-landing-page
+        tagline: "Thsi is a full responsive web page I created with a classmate. We use HTML, CSS, Bootstrap and Git   --"
+
+      - title: Excuse Generator
+        link: https://github.com/jairomaxter/excuses-generator
+        tagline: "Random excuse generator coding with HTML an JavaScript  --"
+             
+      - title: Instagram Bootstrap
+        link: https://github.com/jairomaxter/Instagram-Photo-Feed-with-Bootstrap-
+        tagline: "A responsive Bootstrap website template created to display posts and switch from grid to list view.   --"
+
+      - title: Postcard
+        link: https://github.com/jairomaxter/postcard
+        tagline: "First project of my life working with CSS and HTML.   --"
+
+skills:
+    toolset:
+      - name: Git
+        level: 30%
+
+      - name: Javascript
+        level: 40%
+
+      - name: HTML5 & CSS
+        level: 60%
